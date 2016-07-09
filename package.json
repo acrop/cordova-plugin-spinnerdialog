@@ -13,40 +13,40 @@
     "id": "cordova-plugin-spinnerdialog",
     "platforms": [
       "android",
-	  "ios",
-	  "wp8",
+      "ios",
+      "wp8",
       "windows"
     ]
   },
+  "main": "./www/SpinnerDialog.js",
+  "typings": "./www/SpinnerDialog.d.ts",
   "keywords": [
     "cordova",
     "spinner",
     "dialog",
     "spinnerdialog",
     "progress",
-	"indicator",
-	"progressindicator",
+    "indicator",
+    "progressindicator",
     "plugin",
     "notification",
     "ecosystem:cordova",
     "cordova-android",
-	"cordova-ios",
-	"cordova-wp8",
+    "cordova-ios",
+    "cordova-wp8",
     "cordova-windows",
-	"android",
-	"ios",
-	"wp8",
-	"windows",
-	"10",
-	"8.1",
-	"phone"
+    "android",
+    "ios",
+    "wp8",
+    "windows",
+    "10",
+    "8.1",
+    "phone"
   ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=3.4.0"
-    }
-  ],
+  "engines": [{
+    "name": "cordova",
+    "version": ">=3.4.0"
+  }],
   "bugs": {
     "url": "https://github.com/filfat-Studios-AB/cordova-plugin-spinnerdialog/issues"
   }
