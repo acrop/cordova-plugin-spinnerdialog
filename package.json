@@ -19,7 +19,7 @@
     ]
   },
   "main": "./www/SpinnerDialog.js",
-  "typings": "./www/SpinnerDialog.d.ts",
+  "typings": "./www/SpinnerDialog.ts",
   "keywords": [
     "cordova",
     "spinner",
