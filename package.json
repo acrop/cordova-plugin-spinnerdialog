@@ -1,5 +1,5 @@
 {
-  "name": "com-acrop-spinnerdialog",
+  "name": "cordova-plugin-spinnerdialog-acrop",
   "version": "1.0.3",
   "description": "A Cordova plugin for showing a progress indicator based on Paldom/SpinnerDialog",
   "author": "filfat-studios-ab",
@@ -10,7 +10,7 @@
     "url": "git+https://github.com/filfat-Studios-AB/cordova-plugin-spinnerdialog.git"
   },
   "cordova": {
-    "id": "com-acrop-spinnerdialog",
+    "id": "cordova-plugin-spinnerdialog-acrop",
     "platforms": [
       "android",
       "ios",
