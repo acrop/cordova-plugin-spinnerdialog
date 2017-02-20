@@ -3,6 +3,7 @@ import { Cordova, Plugin } from 'ionic-native';
 @Plugin({
   plugin: 'cordova-plugin-spinnerdialog-acrop',
   pluginRef: 'SpinnerDialog',
+  pluginName: 'SpinnerDialog',
   repo: 'https://github.com/acrop/cordova-plugin-spinnerdialog',
   platforms: ['Android', 'iOS']
 })
